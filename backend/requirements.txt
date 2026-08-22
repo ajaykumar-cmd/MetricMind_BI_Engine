@@ -1,0 +1,10 @@
+** Tech Requirements:**
+1.pandas
+2.duckdb
+3.fastapi
+4.uvicorn
+5.plotly
+6.langchain
+7.langchain-openai
+8.openai
+9.python-dotenv

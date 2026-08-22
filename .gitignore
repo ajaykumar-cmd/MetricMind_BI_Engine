@@ -1,0 +1,20 @@
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database
+*.duckdb
+*.duckdb.wal
+
+# Frontend
+node_modules/
+.next/
+
+# IDE
+.vscode/
